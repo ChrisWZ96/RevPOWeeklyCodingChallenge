@@ -3,7 +3,7 @@ package com.revature;
 import java.io.*;
 import java.util.Scanner;
 
-public class Main{
+public class Nov1Challenges{
     public static void main(String[] args) throws IOException {
         Scanner myInput = new Scanner(System.in);
         System.out.println("Input Player 1's move:");
